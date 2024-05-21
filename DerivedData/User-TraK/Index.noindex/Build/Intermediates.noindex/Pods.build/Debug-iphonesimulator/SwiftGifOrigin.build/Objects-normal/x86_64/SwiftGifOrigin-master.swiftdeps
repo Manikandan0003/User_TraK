@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)"
+options: "a4aed665afe234c52f3b61b1575c9fcfd3ea6a4bedf25c390da082b6f074f57f"
+build_start_time: [1716270484, 815971000]
+build_end_time: [1716270487, 504376000]
+inputs:
+  "/Users/manikandanios/Desktop/User-TraK/Pods/SwiftGifOrigin/SwiftGifCommon/UIImage+Gif.swift": [1716016558, 448336231]

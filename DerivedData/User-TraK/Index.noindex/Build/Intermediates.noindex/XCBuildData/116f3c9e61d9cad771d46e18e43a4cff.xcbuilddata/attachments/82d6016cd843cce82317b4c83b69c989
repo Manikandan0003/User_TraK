@@ -1,0 +1,15 @@
+{
+  "" : {
+    "dependencies" : "/Users/manikandanios/Desktop/User-TraK/DerivedData/User-TraK/Index.noindex/Build/Intermediates.noindex/User-TraK.build/Debug-iphoneos/User-TraKUITests.build/Objects-normal/arm64/User-TraKUITests-master.d",
+    "diagnostics" : "/Users/manikandanios/Desktop/User-TraK/DerivedData/User-TraK/Index.noindex/Build/Intermediates.noindex/User-TraK.build/Debug-iphoneos/User-TraKUITests.build/Objects-normal/arm64/User-TraKUITests-master.dia",
+    "emit-module-dependencies" : "/Users/manikandanios/Desktop/User-TraK/DerivedData/User-TraK/Index.noindex/Build/Intermediates.noindex/User-TraK.build/Debug-iphoneos/User-TraKUITests.build/Objects-normal/arm64/User-TraKUITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/manikandanios/Desktop/User-TraK/DerivedData/User-TraK/Index.noindex/Build/Intermediates.noindex/User-TraK.build/Debug-iphoneos/User-TraKUITests.build/Objects-normal/arm64/User-TraKUITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/manikandanios/Desktop/User-TraK/DerivedData/User-TraK/Index.noindex/Build/Intermediates.noindex/User-TraK.build/Debug-iphoneos/User-TraKUITests.build/Objects-normal/arm64/User-TraKUITests-master.swiftdeps"
+  },
+  "/Users/manikandanios/Desktop/User-TraK/User-TraKUITests/User_TraKUITests.swift" : {
+
+  },
+  "/Users/manikandanios/Desktop/User-TraK/User-TraKUITests/User_TraKUITestsLaunchTests.swift" : {
+
+  }
+}

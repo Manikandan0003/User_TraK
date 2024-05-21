@@ -1,0 +1,6 @@
+framework module Pods_User_TraK_User_TraKUITests {
+  umbrella header "Pods-User-TraK-User-TraKUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

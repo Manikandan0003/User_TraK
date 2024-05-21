@@ -1,0 +1,12 @@
+{
+  "" : {
+    "dependencies" : "/Users/manikandanios/Desktop/User-TraK/DerivedData/User-TraK/Index.noindex/Build/Intermediates.noindex/User-TraK.build/Debug-iphonesimulator/User-TraKTests.build/Objects-normal/x86_64/User-TraKTests-master.d",
+    "diagnostics" : "/Users/manikandanios/Desktop/User-TraK/DerivedData/User-TraK/Index.noindex/Build/Intermediates.noindex/User-TraK.build/Debug-iphonesimulator/User-TraKTests.build/Objects-normal/x86_64/User-TraKTests-master.dia",
+    "emit-module-dependencies" : "/Users/manikandanios/Desktop/User-TraK/DerivedData/User-TraK/Index.noindex/Build/Intermediates.noindex/User-TraK.build/Debug-iphonesimulator/User-TraKTests.build/Objects-normal/x86_64/User-TraKTests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/manikandanios/Desktop/User-TraK/DerivedData/User-TraK/Index.noindex/Build/Intermediates.noindex/User-TraK.build/Debug-iphonesimulator/User-TraKTests.build/Objects-normal/x86_64/User-TraKTests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/manikandanios/Desktop/User-TraK/DerivedData/User-TraK/Index.noindex/Build/Intermediates.noindex/User-TraK.build/Debug-iphonesimulator/User-TraKTests.build/Objects-normal/x86_64/User-TraKTests-master.swiftdeps"
+  },
+  "/Users/manikandanios/Desktop/User-TraK/User-TraKTests/User_TraKTests.swift" : {
+
+  }
+}

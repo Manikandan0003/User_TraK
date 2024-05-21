@@ -1,0 +1,135 @@
+{
+  "" : {
+    "dependencies" : "/Users/manikandanios/Desktop/User-TraK/DerivedData/User-TraK/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug-maccatalyst/Alamofire.build/Objects-normal/x86_64/Alamofire-master.d",
+    "diagnostics" : "/Users/manikandanios/Desktop/User-TraK/DerivedData/User-TraK/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug-maccatalyst/Alamofire.build/Objects-normal/x86_64/Alamofire-master.dia",
+    "emit-module-dependencies" : "/Users/manikandanios/Desktop/User-TraK/DerivedData/User-TraK/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug-maccatalyst/Alamofire.build/Objects-normal/x86_64/Alamofire-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/manikandanios/Desktop/User-TraK/DerivedData/User-TraK/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug-maccatalyst/Alamofire.build/Objects-normal/x86_64/Alamofire-master-emit-module.dia",
+    "swift-dependencies" : "/Users/manikandanios/Desktop/User-TraK/DerivedData/User-TraK/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug-maccatalyst/Alamofire.build/Objects-normal/x86_64/Alamofire-master.swiftdeps"
+  },
+  "/Users/manikandanios/Desktop/User-TraK/Pods/Alamofire/Source/Alamofire.swift" : {
+
+  },
+  "/Users/manikandanios/Desktop/User-TraK/Pods/Alamofire/Source/Core/AFError.swift" : {
+
+  },
+  "/Users/manikandanios/Desktop/User-TraK/Pods/Alamofire/Source/Core/DataRequest.swift" : {
+
+  },
+  "/Users/manikandanios/Desktop/User-TraK/Pods/Alamofire/Source/Core/DataStreamRequest.swift" : {
+
+  },
+  "/Users/manikandanios/Desktop/User-TraK/Pods/Alamofire/Source/Core/DownloadRequest.swift" : {
+
+  },
+  "/Users/manikandanios/Desktop/User-TraK/Pods/Alamofire/Source/Core/HTTPHeaders.swift" : {
+
+  },
+  "/Users/manikandanios/Desktop/User-TraK/Pods/Alamofire/Source/Core/HTTPMethod.swift" : {
+
+  },
+  "/Users/manikandanios/Desktop/User-TraK/Pods/Alamofire/Source/Core/Notifications.swift" : {
+
+  },
+  "/Users/manikandanios/Desktop/User-TraK/Pods/Alamofire/Source/Core/ParameterEncoder.swift" : {
+
+  },
+  "/Users/manikandanios/Desktop/User-TraK/Pods/Alamofire/Source/Core/ParameterEncoding.swift" : {
+
+  },
+  "/Users/manikandanios/Desktop/User-TraK/Pods/Alamofire/Source/Core/Protected.swift" : {
+
+  },
+  "/Users/manikandanios/Desktop/User-TraK/Pods/Alamofire/Source/Core/Request.swift" : {
+
+  },
+  "/Users/manikandanios/Desktop/User-TraK/Pods/Alamofire/Source/Core/RequestTaskMap.swift" : {
+
+  },
+  "/Users/manikandanios/Desktop/User-TraK/Pods/Alamofire/Source/Core/Response.swift" : {
+
+  },
+  "/Users/manikandanios/Desktop/User-TraK/Pods/Alamofire/Source/Core/Session.swift" : {
+
+  },
+  "/Users/manikandanios/Desktop/User-TraK/Pods/Alamofire/Source/Core/SessionDelegate.swift" : {
+
+  },
+  "/Users/manikandanios/Desktop/User-TraK/Pods/Alamofire/Source/Core/UploadRequest.swift" : {
+
+  },
+  "/Users/manikandanios/Desktop/User-TraK/Pods/Alamofire/Source/Core/URLConvertible+URLRequestConvertible.swift" : {
+
+  },
+  "/Users/manikandanios/Desktop/User-TraK/Pods/Alamofire/Source/Core/WebSocketRequest.swift" : {
+
+  },
+  "/Users/manikandanios/Desktop/User-TraK/Pods/Alamofire/Source/Extensions/DispatchQueue+Alamofire.swift" : {
+
+  },
+  "/Users/manikandanios/Desktop/User-TraK/Pods/Alamofire/Source/Extensions/OperationQueue+Alamofire.swift" : {
+
+  },
+  "/Users/manikandanios/Desktop/User-TraK/Pods/Alamofire/Source/Extensions/Result+Alamofire.swift" : {
+
+  },
+  "/Users/manikandanios/Desktop/User-TraK/Pods/Alamofire/Source/Extensions/StringEncoding+Alamofire.swift" : {
+
+  },
+  "/Users/manikandanios/Desktop/User-TraK/Pods/Alamofire/Source/Extensions/URLRequest+Alamofire.swift" : {
+
+  },
+  "/Users/manikandanios/Desktop/User-TraK/Pods/Alamofire/Source/Extensions/URLSessionConfiguration+Alamofire.swift" : {
+
+  },
+  "/Users/manikandanios/Desktop/User-TraK/Pods/Alamofire/Source/Features/AlamofireExtended.swift" : {
+
+  },
+  "/Users/manikandanios/Desktop/User-TraK/Pods/Alamofire/Source/Features/AuthenticationInterceptor.swift" : {
+
+  },
+  "/Users/manikandanios/Desktop/User-TraK/Pods/Alamofire/Source/Features/CachedResponseHandler.swift" : {
+
+  },
+  "/Users/manikandanios/Desktop/User-TraK/Pods/Alamofire/Source/Features/Combine.swift" : {
+
+  },
+  "/Users/manikandanios/Desktop/User-TraK/Pods/Alamofire/Source/Features/Concurrency.swift" : {
+
+  },
+  "/Users/manikandanios/Desktop/User-TraK/Pods/Alamofire/Source/Features/EventMonitor.swift" : {
+
+  },
+  "/Users/manikandanios/Desktop/User-TraK/Pods/Alamofire/Source/Features/MultipartFormData.swift" : {
+
+  },
+  "/Users/manikandanios/Desktop/User-TraK/Pods/Alamofire/Source/Features/MultipartUpload.swift" : {
+
+  },
+  "/Users/manikandanios/Desktop/User-TraK/Pods/Alamofire/Source/Features/NetworkReachabilityManager.swift" : {
+
+  },
+  "/Users/manikandanios/Desktop/User-TraK/Pods/Alamofire/Source/Features/RedirectHandler.swift" : {
+
+  },
+  "/Users/manikandanios/Desktop/User-TraK/Pods/Alamofire/Source/Features/RequestCompression.swift" : {
+
+  },
+  "/Users/manikandanios/Desktop/User-TraK/Pods/Alamofire/Source/Features/RequestInterceptor.swift" : {
+
+  },
+  "/Users/manikandanios/Desktop/User-TraK/Pods/Alamofire/Source/Features/ResponseSerialization.swift" : {
+
+  },
+  "/Users/manikandanios/Desktop/User-TraK/Pods/Alamofire/Source/Features/RetryPolicy.swift" : {
+
+  },
+  "/Users/manikandanios/Desktop/User-TraK/Pods/Alamofire/Source/Features/ServerTrustEvaluation.swift" : {
+
+  },
+  "/Users/manikandanios/Desktop/User-TraK/Pods/Alamofire/Source/Features/URLEncodedFormEncoder.swift" : {
+
+  },
+  "/Users/manikandanios/Desktop/User-TraK/Pods/Alamofire/Source/Features/Validation.swift" : {
+
+  }
+}

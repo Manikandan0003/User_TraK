@@ -1,0 +1,12 @@
+{
+  "" : {
+    "dependencies" : "/Users/manikandanios/Desktop/User-TraK/DerivedData/User-TraK/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftGifOrigin.build/Objects-normal/x86_64/SwiftGifOrigin-master.d",
+    "diagnostics" : "/Users/manikandanios/Desktop/User-TraK/DerivedData/User-TraK/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftGifOrigin.build/Objects-normal/x86_64/SwiftGifOrigin-master.dia",
+    "emit-module-dependencies" : "/Users/manikandanios/Desktop/User-TraK/DerivedData/User-TraK/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftGifOrigin.build/Objects-normal/x86_64/SwiftGifOrigin-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/manikandanios/Desktop/User-TraK/DerivedData/User-TraK/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftGifOrigin.build/Objects-normal/x86_64/SwiftGifOrigin-master-emit-module.dia",
+    "swift-dependencies" : "/Users/manikandanios/Desktop/User-TraK/DerivedData/User-TraK/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftGifOrigin.build/Objects-normal/x86_64/SwiftGifOrigin-master.swiftdeps"
+  },
+  "/Users/manikandanios/Desktop/User-TraK/Pods/SwiftGifOrigin/SwiftGifCommon/UIImage+Gif.swift" : {
+
+  }
+}

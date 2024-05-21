@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/manikandanios/Desktop/User-TraK/DerivedData/User-TraK/Index.noindex/Build/Products/Debug-iphonesimulator/SwiftGifOrigin/SwiftGifOrigin.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/manikandanios/Desktop/User-TraK/DerivedData/User-TraK/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftGifOrigin.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/manikandanios/Desktop/User-TraK/DerivedData/User-TraK/Index.noindex/Build/Products/Debug-iphonesimulator/SwiftGifOrigin/SwiftGifOrigin.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "SwiftGifOrigin-Swift.h",
+      'external-contents': "/Users/manikandanios/Desktop/User-TraK/DerivedData/User-TraK/Index.noindex/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/SwiftGifOrigin.build/unextended-interface-header.h",
+    }]
+    }]
+}

@@ -1,0 +1,82 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42dccbad66805717c31782da4671e89194"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42dfdddeda9fa384908f5df0a81f4f4256"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42cdc5f94e0652582d12f855887ea29376"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd422694f9cfcf4192ddd4ef90055a48b58a"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42737e875773c5f38c4bd9ad7ea41b7401"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42ba3679b4c4428e6a6d83c5308d3af99b"
+    },
+    {
+      "guid" : "1776f502d186093daea08fbd083260e57457a8f86353bc859e515a20d860b15c"
+    },
+    {
+      "guid" : "1776f502d186093daea08fbd083260e519bc2becc977875ecc02231c74d7ae41"
+    },
+    {
+      "guid" : "1776f502d186093daea08fbd083260e53d0b81110addc86d2fbfe04424ff50c5"
+    }
+  ],
+  "containerPath" : "/Users/manikandanios/Desktop/User-TraK/User-TraK.xcworkspace",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/manikandanios/Desktop/User-TraK/DerivedData/User-TraK/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/manikandanios/Desktop/User-TraK/DerivedData/User-TraK/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/manikandanios/Desktop/User-TraK/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/manikandanios/Desktop/User-TraK/DerivedData/User-TraK/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/manikandanios/Desktop/User-TraK/DerivedData/User-TraK/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/manikandanios/Desktop/User-TraK/DerivedData/User-TraK/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/manikandanios/Desktop/User-TraK/DerivedData/User-TraK/Build/Products",
+      "pchPath" : "/Users/manikandanios/Desktop/User-TraK/DerivedData/User-TraK/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

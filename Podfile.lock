@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.9.1)
+  - FLAnimatedImage (1.0.17)
+  - SwiftGifOrigin (1.7.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.5)
+  - FLAnimatedImage
+  - SwiftGifOrigin (~> 1.7.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - FLAnimatedImage
+    - SwiftGifOrigin
+
+SPEC CHECKSUMS:
+  Alamofire: f36a35757af4587d8e4f4bfa223ad10be2422b8c
+  FLAnimatedImage: bbf914596368867157cc71b38a8ec834b3eeb32b
+  SwiftGifOrigin: fbd6cf37afcfcf97a5c3db996ddc0492e5c5c145
+
+PODFILE CHECKSUM: e8ae424f893c028ef01ae961455ac669ec5c5db1
+
+COCOAPODS: 1.14.3

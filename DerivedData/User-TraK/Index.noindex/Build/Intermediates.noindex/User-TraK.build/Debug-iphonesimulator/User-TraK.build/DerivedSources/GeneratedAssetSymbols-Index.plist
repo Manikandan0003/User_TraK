@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colors</key>
+	<array/>
+	<key>images</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/manikandanios/Desktop/User-TraK/User-TraK/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameEdit</string>
+			<key>relativePath</key>
+			<string>./edit.imageset</string>
+			<key>swiftSymbol</key>
+			<string>edit</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/manikandanios/Desktop/User-TraK/User-TraK/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameNodata</string>
+			<key>relativePath</key>
+			<string>./nodata.imageset</string>
+			<key>swiftSymbol</key>
+			<string>nodata</string>
+		</dict>
+	</array>
+	<key>symbols</key>
+	<array/>
+</dict>
+</plist>
